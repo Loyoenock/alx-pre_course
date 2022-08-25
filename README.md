@@ -1,2 +1,2 @@
-This is a readme file
-Just trying out
+This is a readme file to contain project man
+
